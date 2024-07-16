@@ -1,0 +1,7 @@
+{
+  "name": "marvel-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
